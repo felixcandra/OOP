@@ -1,0 +1,6 @@
+c:\users\felix\documents\visual studio 2015\Projects\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.exe.config
+c:\users\felix\documents\visual studio 2015\Projects\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.exe
+c:\users\felix\documents\visual studio 2015\Projects\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.pdb
+c:\users\felix\documents\visual studio 2015\Projects\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.csprojResolveAssemblyReference.cache
+c:\users\felix\documents\visual studio 2015\Projects\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.exe
+c:\users\felix\documents\visual studio 2015\Projects\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.pdb
